@@ -7,6 +7,12 @@
     <title>Your Name - Personal Website</title>
     <style>
         body {
+    background-image: url('path_to_your_image.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+        body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f9;
             margin: 0;
